@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Project: Recipe book</title>
+        <meta charset="utf-8">
+        <style>
+        body {
+            background-color:rgb(240, 197, 221);
+        }
+        .receta1{font-size: x-large;
+         }
+         .receta2{font-size: x-large;
+         }
+         .receta3{font-size: x-large;
+         }
+        </style>
+    </head>
+    <body>
+       
+        <h1> Libro de recetas Ana </h1>
+        
+        <h2>Recetas</h2>
+        
+        <ol>
+            <li><a href="#receta tortilla">Tortilla de patata 
+            </a></li>
+            <li><a href="#receta crepes"> Crepes
+            </a></li>
+            <li><a href="#receta espaguetis carbonara">Espaguetis carbonara
+            </a></li>
+            
+        </ol>
+        
+        <h2 class ="receta1" id="receta tortilla"> Receta tortilla de patata</h2>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Tortilla-de-patatas.jpg/220px-Tortilla-de-patatas.jpg" width="350">
+        <ul>
+            <li>Tiempo total: 30 minutos</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredientes</th>
+                    <th>Cantidad</th>
+                </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td>Huevos camperos  </td>
+                <td>   8 </td>
+            </tr>
+            <tr>
+                <td> patatas gallegas</td>
+                <td> 1kg</td>
+            </tr>
+            <tr>
+                <td>cebolla grande </td>
+                <td> 1</td>
+            </tr>
+            <tr>
+                <td>Sal </td>
+                <td> al gusto </td>
+            </tr>
+            </tbody>
+        </table>
+        
+        <p><strong>Primer paso:</strong> Pelamos las patatas, las lavamos para quitar restos de suciedad y muy importante, las secamos.
+</p>
+<p> <strong>Segundo paso:</strong>Cortamos en láminas semifinas, a mí no me gusta que se deshagan sino que al freírlas se tuesten un poco. Las colocamos en un bol grande, donde luego vamos a mezclar con el huevo y añadimos sal al gusto. Removemos bien y reservamos.
+</p>
+<p> <strong>Tercer paso:</strong>Elegimos nuestra sartén más grande y antiadherente. La ponemos al fuego y añadimos un buen aceite de oliva virgen extra.
+</p>
+<p> <strong>Cuarto paso:</strong>No tengáis miedo en gastaros un poco de dinero en aceite, le va a dar ese punto de sabor que distingue vuestra tortilla de las demás, podéis emplear muchas variedades: arbequina, picual, cornicabra, hojiblanca, royal… el que más os guste, pero de calidad.
+</p>
+<p><strong> Quinto paso:</strong> Introducimos las patatas cortadas y ya saladas y dejamos que se cocinen durante aproximadamente veinte minutos a fuego bajo.
+</p>
+        <p><strong>Sexto paso:</strong>El tema del grosor de las patatas también va a gustos. Hay quien prefiere cortarlas a trozos muy pequeños, en láminas muy finas que casi se rompan al freír y o más bien grandes.
+</p>
+        <p><strong>Séptimo paso:</strong>Mientras se están friendo las patatas, en el bol donde luego vamos a echar las patatas batimos los huevos, reservamos.
+</p>
+        <p><strong> Octavo paso:</strong>Pelamos la cebolla y cortamos lo más fino posible.
+</p>
+        <p><strong> Noveno paso:</strong>En otra sartén calentamos aceite de oliva y añadimos los trozos de cebolla.
+</p>
+        <p><strong>Décimo paso:</strong>Pochamos hasta que tenga un color dorado, que tenga un punto de caramelización pero sin llegar a quemarse. La cebolla se hará antes que las patatas, así que escurrimos y añadimos al bol con el huevo batido.
+</p>
+        
+
+        
+    <p><em>Web: <a href="https://www.recetasderechupete.com/tortilla-de-patatas-espanola-receta-paso-a-paso/5182/">Receta tortilla de patata</a></em></p>
+        
+        
+        
+          <h2 class ="receta2" id="receta crepes"> Receta crepes</h2>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Palatschinke.jpg/459px-Palatschinke.jpg" width="400">
+        <ul>
+            <li>Tiempo total: 25 minutos</li>
+            <li>Elaboración: 5 minutos</li>
+            <li>Cocción: 20 minutos</li>
+            <li>Reposo: 30 minutos </li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredientes</th>
+                    <th>Cantidad</th>
+                </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td>Huevos L </td>
+                <td>   2 </td>
+            </tr>
+            <tr>
+                <td> Harina</td>
+                <td> 110g</td>
+            </tr>
+            <tr>
+                <td>Azúcar </td>
+                <td> 15ml</td>
+            </tr>
+            <tr>
+                <td>Sal </td>
+                <td> 2g </td>
+            </tr>
+            </tbody>
+        </table>
+        
+        <p><strong>Primer paso:</strong> Podemos usar cualquier tipo de leche, incluso una bebida vegetal, mejor si es de sabor más neutro en el caso de que no queramos que influya en el sabor de los crêpes. En general la de soja me ha dado buenos resultados, aunque si somos intolerantes cualquier leche sin lactosa nos servirá. Hay quien prefiere usar como líquido solo el lácteo pero yo me decanto por la opción de combinar la mitad con agua..
+</p>
+<p> <strong>Segundo paso:</strong>La masa de crêpes puede prepararse con batidora de varillas o en el vaso de una batidora de las que se emplean para batidos. Con unas varillas corrientes manuales también salen bien, tal y como he hecho para esta receta. Yo tengo la costumbre de preparar la masa en una jarra grande para poder verterla directamente después sobre la sartén; es mucho más práctico.
+</p>
+<p> <strong>Tercer paso:</strong>Disponer los huevos en el recipiente que usemos y añadir la leche, el agua -opcional-, el azúcar, la sal, la ralladura de limón o vainilla -si usamos- y batir bien. Añadir la harina tamizada y batir con energía hasta que no queden grumos. Tapar y dejar reposar como mínimo 30 minutos -mejor una hora-, en la nevera si hace calor o dejamos pasar más tiempo.
+</p>
+<p> <strong>Cuarto paso:</strong>Engrasar con aceite neutro o mantequilla derretida una buena sartén antiadherente o crepera. Calentar hasta que coja buena temperatura. Echar una porción de masa en el centro (unos 60 ml), sujetando la sartén fuera del fuego con la otra mano, y girar rápidamente para extenderla por toda la superficie. Bajar un poco la temperatura y dejar cocinar uno o dos minutos, hasta que los bordes se doren y se despeguen.
+</p>
+<p><strong> Quinto paso:</strong> Dar la vuelta con una espátula fina, con cuidado de no romper la masa, y dorar medio minuto o un minuto más por el otro lado. Retirar a un plato y continuar con el resto de la masa hasta terminarla. Mantener tapados con un paño limpio o plástico film para que mantengan el calor y no se resequen. Si hemos encendido el horno ese día podemos aprovechar el calor residual para mantenerlos calientes a la hora de servir.
+</p>
+
+        
+    <p><em>Web: <a href="https://www.directoalpaladar.com/recetario/receta-de-crepes-como-hacer-la-masa-y-17-ideas-faciles-para-rellenarlos">Receta crepes</a></em></p>
+        
+         <h2 class="receta3" id="receta espaguetis carbonara"> Receta espaguetis carbonara</h2>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Espaguetis_carbonara.jpg" width="400">
+        <ul>
+            <li>Tiempo total: 25 minutos</li>
+            <li>Elaboración: 5 minutos</li>
+            <li>Cocción: 20 minutos</li>
+            <li>Reposo: 30 minutos </li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredientes</th>
+                    <th>Cantidad</th>
+                </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td>Espaguetis </td>
+                <td>   400g </td>
+            </tr>
+            <tr>
+                <td> Huevos</td>
+                <td> 2 </td>
+            </tr>
+            <tr>
+                <td>Queso curado (parmesano, manchego…) </td>
+                <td> 150g</td>
+            </tr>
+            <tr>
+                <td>Bacon </td>
+                <td> 120g </td>
+            </tr>
+              <tr>
+                <td>Sal y pimienta </td>   
+            </tr>
+             <tr>
+                <td>Un pequeño chorrito de aceite de oliva </td>   
+            </tr>    
+            </tbody>
+        </table>
+        
+        <p><strong>Primer paso:</strong> Ponemos un puñadito de sal (generoso) en abundante agua hirviendo. Después añadimos los espagueti y los dejamos cocer aquí alrededor de 10 minutos. hasta que estén al «dente». Conviene removerlos con frecuencia sobre todo al principio de la cocción, para que no se peguen.
+</p>
+<p> <strong>Segundo paso:</strong>Mientras se cuecen preparamos la carbonara. En un bol añadimos las yemas de los huevos. La clara es mejor guardarla para otra elaboración ya que, si la añadimos, parecerá más una tortilla de espaguetis, que una salsa en sí. Pero si no te importa, puedes añadirla. Añadimos también el queso rallado y mezclamos ambos ingredientes con un tenedor. Quedará una especie de masa muy densa.
+</p>
+<p> <strong>Tercer paso:</strong>En una sartén ponemos un pequeño chorrito de aceite. Cuando esté bien caliente, añadimos el bacon o la panceta, cortado en dados más bien pequeños. Pasados un par de minutos, cuando estén fritos, retiramos del fuego y reservamos.
+</p>
+<p> <strong>Cuarto paso:</strong>Una vez hecho esto y cuando los espaguetis estén cocinados, guardamos unos cuantos cucharones del caldo de la cocción. Después escurrimos los espaguetis del resto del caldo.
+</p>
+<p><strong> Quinto paso:</strong> Sin demora, ya que será el propio calor residual de los espagueti los que vayan a cocinar la carbonara, echamos la pasta en el bol donde la habíamos preparado. Añadimos el bacon, con el juguito que hayan podido soltar y un poco del caldo de la cocción. Removemos todo bien con un tenedor para que los espaguetis absorban toda la salsa. Si ves que queda muy densa, puedes añadir más caldo de la cocción, hasta que haya quedado una salsa muy cremosa (no olvides remover enérgicamente todo. La pasta es muy porosa y absorbe las salsa con relativa facilidad. Pero necesita ser removido para ayudar a este proceso).
+</p>
+<p><strong> Sexto paso:</strong> Finalmente, cuando hayamos conseguido la cremosidad de la salsa deseado, espolvorear con abundante pimienta negra recién molida. Se dice que el nombre «carbonara» viene del color que le da esta especia, que recuerda el color del carbón. Servir inmediatamente
+</p>
+        
+    <p><em>Web: <a href="https://www.cocinacaserayfacil.net/espaguetis-carbonara/">Receta espaguetis carbonara</a></em></p>
+    
+    </body>
+</html>
